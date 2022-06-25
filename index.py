@@ -1,3 +1,5 @@
  to delete branch from github [git push origin :test]
   to delete branch from local [git branch -d test]
-
+to list tag locally [git tag]
+to delete tag from github [git push origin --delete v1.4]
+o delete tag  localy [ git tag -d v1.4]
